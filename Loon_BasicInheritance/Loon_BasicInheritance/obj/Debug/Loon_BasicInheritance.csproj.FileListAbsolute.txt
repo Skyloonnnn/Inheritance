@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Documents\Loon_Inheritance\Loon_BasicInheritance\Loon_BasicInheritance\bin\Debug\Loon_BasicInheritance.exe.config
+C:\Users\ACT-STUDENT\Documents\Loon_Inheritance\Loon_BasicInheritance\Loon_BasicInheritance\bin\Debug\Loon_BasicInheritance.exe
+C:\Users\ACT-STUDENT\Documents\Loon_Inheritance\Loon_BasicInheritance\Loon_BasicInheritance\bin\Debug\Loon_BasicInheritance.pdb
+C:\Users\ACT-STUDENT\Documents\Loon_Inheritance\Loon_BasicInheritance\Loon_BasicInheritance\obj\Debug\Loon_BasicInheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Documents\Loon_Inheritance\Loon_BasicInheritance\Loon_BasicInheritance\obj\Debug\Loon_BasicInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Documents\Loon_Inheritance\Loon_BasicInheritance\Loon_BasicInheritance\obj\Debug\Loon_BasicInheritance.exe
+C:\Users\ACT-STUDENT\Documents\Loon_Inheritance\Loon_BasicInheritance\Loon_BasicInheritance\obj\Debug\Loon_BasicInheritance.pdb
+C:\Users\ACT-STUDENT\Documents\Loon_Inheritance\Loon_BasicInheritance\Loon_BasicInheritance\obj\Debug\Loon_BasicInheritance.exe.config
